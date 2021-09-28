@@ -19,6 +19,7 @@ namespace Task3
             {
                 Console.WriteLine($"Число {number} не является четным");
             }
+
         }
     }
 }

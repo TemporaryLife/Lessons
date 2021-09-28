@@ -8,6 +8,7 @@ namespace Task2
 {
     class Program
     {
+        private static int x = 5;
         static void Main(string[] args)
         {
             byte month_number = Convert.ToByte(Console.ReadLine());
