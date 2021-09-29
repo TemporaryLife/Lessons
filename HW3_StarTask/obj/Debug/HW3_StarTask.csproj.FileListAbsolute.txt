@@ -1,0 +1,7 @@
+C:\Users\Konstantin\Source\Repos\TemporaryLife\Lessons\HW3_StarTask\bin\Debug\HW3_StarTask.exe.config
+C:\Users\Konstantin\Source\Repos\TemporaryLife\Lessons\HW3_StarTask\bin\Debug\HW3_StarTask.exe
+C:\Users\Konstantin\Source\Repos\TemporaryLife\Lessons\HW3_StarTask\bin\Debug\HW3_StarTask.pdb
+C:\Users\Konstantin\Source\Repos\TemporaryLife\Lessons\HW3_StarTask\obj\Debug\HW3_StarTask.csproj.AssemblyReference.cache
+C:\Users\Konstantin\Source\Repos\TemporaryLife\Lessons\HW3_StarTask\obj\Debug\HW3_StarTask.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\Source\Repos\TemporaryLife\Lessons\HW3_StarTask\obj\Debug\HW3_StarTask.exe
+C:\Users\Konstantin\Source\Repos\TemporaryLife\Lessons\HW3_StarTask\obj\Debug\HW3_StarTask.pdb
