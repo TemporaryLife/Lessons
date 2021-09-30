@@ -22,6 +22,7 @@ namespace HW3_Task4
                                   {"X","X","X","O","O","O","O","O","O","O"},};
             for (int i = 0; i<=Warships.GetUpperBound(0); i++)
 			{
+
                 for (int j=0; j<=Warships.GetUpperBound(1);j++)
                 {
                     if (Warships[i,j]=="X")
