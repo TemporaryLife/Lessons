@@ -1,6 +1,0 @@
-C:\Users\Konstantin\source\repos\TemporaryLife\Lessons\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
-C:\Users\Konstantin\source\repos\TemporaryLife\Lessons\ConsoleApp1\bin\Debug\ConsoleApp1.exe
-C:\Users\Konstantin\source\repos\TemporaryLife\Lessons\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
-C:\Users\Konstantin\source\repos\TemporaryLife\Lessons\ConsoleApp1\obj\Debug\Task-1.csproj.CoreCompileInputs.cache
-C:\Users\Konstantin\source\repos\TemporaryLife\Lessons\ConsoleApp1\obj\Debug\ConsoleApp1.exe
-C:\Users\Konstantin\source\repos\TemporaryLife\Lessons\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

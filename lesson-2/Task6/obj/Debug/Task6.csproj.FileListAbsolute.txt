@@ -1,0 +1,7 @@
+C:\Users\Konstantin\Source\Repos\TemporaryLife\Lessons\lesson-2\Task6\bin\Debug\Task6.exe.config
+C:\Users\Konstantin\Source\Repos\TemporaryLife\Lessons\lesson-2\Task6\bin\Debug\Task6.exe
+C:\Users\Konstantin\Source\Repos\TemporaryLife\Lessons\lesson-2\Task6\bin\Debug\Task6.pdb
+C:\Users\Konstantin\Source\Repos\TemporaryLife\Lessons\lesson-2\Task6\obj\Debug\Task6.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\Source\Repos\TemporaryLife\Lessons\lesson-2\Task6\obj\Debug\Task6.exe
+C:\Users\Konstantin\Source\Repos\TemporaryLife\Lessons\lesson-2\Task6\obj\Debug\Task6.pdb
+C:\Users\Konstantin\Source\Repos\TemporaryLife\Lessons\lesson-2\Task6\obj\Debug\Task6.csproj.AssemblyReference.cache
