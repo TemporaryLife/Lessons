@@ -1,0 +1,7 @@
+C:\Users\Konstantin\Source\Repos\TemporaryLife\Lessons\HW3_Task_1\bin\Debug\HW3_Task_1.exe.config
+C:\Users\Konstantin\Source\Repos\TemporaryLife\Lessons\HW3_Task_1\bin\Debug\HW3_Task_1.exe
+C:\Users\Konstantin\Source\Repos\TemporaryLife\Lessons\HW3_Task_1\bin\Debug\HW3_Task_1.pdb
+C:\Users\Konstantin\Source\Repos\TemporaryLife\Lessons\HW3_Task_1\obj\Debug\HW3_Task_1.csproj.AssemblyReference.cache
+C:\Users\Konstantin\Source\Repos\TemporaryLife\Lessons\HW3_Task_1\obj\Debug\HW3_Task_1.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\Source\Repos\TemporaryLife\Lessons\HW3_Task_1\obj\Debug\HW3_Task_1.exe
+C:\Users\Konstantin\Source\Repos\TemporaryLife\Lessons\HW3_Task_1\obj\Debug\HW3_Task_1.pdb
