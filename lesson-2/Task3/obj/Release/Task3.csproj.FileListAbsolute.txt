@@ -1,0 +1,7 @@
+C:\Users\Konstantin\source\repos\TemporaryLife\Lessons\Task3\bin\Release\Task3.exe.config
+C:\Users\Konstantin\source\repos\TemporaryLife\Lessons\Task3\bin\Release\Task3.exe
+C:\Users\Konstantin\source\repos\TemporaryLife\Lessons\Task3\bin\Release\Task3.pdb
+C:\Users\Konstantin\source\repos\TemporaryLife\Lessons\Task3\obj\Release\Task3.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\source\repos\TemporaryLife\Lessons\Task3\obj\Release\Task3.exe
+C:\Users\Konstantin\source\repos\TemporaryLife\Lessons\Task3\obj\Release\Task3.pdb
+C:\Users\Konstantin\source\repos\TemporaryLife\Lessons\Task3\obj\Release\Task3.csproj.AssemblyReference.cache

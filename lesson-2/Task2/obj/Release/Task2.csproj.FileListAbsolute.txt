@@ -1,0 +1,6 @@
+C:\Users\Konstantin\source\repos\TemporaryLife\Lessons\Task2\bin\Release\Task2.exe.config
+C:\Users\Konstantin\source\repos\TemporaryLife\Lessons\Task2\bin\Release\Task2.exe
+C:\Users\Konstantin\source\repos\TemporaryLife\Lessons\Task2\bin\Release\Task2.pdb
+C:\Users\Konstantin\source\repos\TemporaryLife\Lessons\Task2\obj\Release\Task2.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\source\repos\TemporaryLife\Lessons\Task2\obj\Release\Task2.exe
+C:\Users\Konstantin\source\repos\TemporaryLife\Lessons\Task2\obj\Release\Task2.pdb
