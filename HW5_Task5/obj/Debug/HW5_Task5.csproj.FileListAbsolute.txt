@@ -1,0 +1,16 @@
+C:\Users\Konstantin\source\repos\TemporaryLife\Lessons\HW5_Task5\bin\Debug\HW5_Task5.exe.config
+C:\Users\Konstantin\source\repos\TemporaryLife\Lessons\HW5_Task5\bin\Debug\HW5_Task5.exe
+C:\Users\Konstantin\source\repos\TemporaryLife\Lessons\HW5_Task5\bin\Debug\HW5_Task5.pdb
+C:\Users\Konstantin\source\repos\TemporaryLife\Lessons\HW5_Task5\bin\Debug\System.Text.Json.dll
+C:\Users\Konstantin\source\repos\TemporaryLife\Lessons\HW5_Task5\bin\Debug\System.Memory.dll
+C:\Users\Konstantin\source\repos\TemporaryLife\Lessons\HW5_Task5\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Konstantin\source\repos\TemporaryLife\Lessons\HW5_Task5\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Konstantin\source\repos\TemporaryLife\Lessons\HW5_Task5\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Konstantin\source\repos\TemporaryLife\Lessons\HW5_Task5\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Konstantin\source\repos\TemporaryLife\Lessons\HW5_Task5\bin\Debug\System.Buffers.dll
+C:\Users\Konstantin\source\repos\TemporaryLife\Lessons\HW5_Task5\obj\Debug\HW5_Task5.csproj.AssemblyReference.cache
+C:\Users\Konstantin\source\repos\TemporaryLife\Lessons\HW5_Task5\obj\Debug\HW5_Task5.exe.config
+C:\Users\Konstantin\source\repos\TemporaryLife\Lessons\HW5_Task5\obj\Debug\HW5_Task5.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\source\repos\TemporaryLife\Lessons\HW5_Task5\obj\Debug\HW5_Task5.csproj.CopyComplete
+C:\Users\Konstantin\source\repos\TemporaryLife\Lessons\HW5_Task5\obj\Debug\HW5_Task5.exe
+C:\Users\Konstantin\source\repos\TemporaryLife\Lessons\HW5_Task5\obj\Debug\HW5_Task5.pdb
