@@ -76,8 +76,9 @@ namespace HW4_Task3
         }
         static void Main(string[] args)
         {
-            int a = Convertation(13);
-            Console.WriteLine(ToMonth(a));
+            Console.Write("Введите порядковый номер месяца: ");
+            int a = Convertation(Convert.ToInt32(Console.ReadLine()));
+            Console.WriteLine($"Время года для заданного месяца - {ToMonth(a)}");
             Console.ReadKey();
         }
     }

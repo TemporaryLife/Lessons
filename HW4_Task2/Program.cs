@@ -11,18 +11,19 @@ namespace HW4_Task2
     {
         static void Main(string[] args)
         {
+            Console.Write("Введите набор чисел через пробел: ");
             string input=Console.ReadLine();
-            int res=sum(input);
-            Console.WriteLine(res);
+            string[] arr = input.Split(' ');
+            Console.WriteLine($"Сумма введенных чисел: {sum(arr)}");
+
         }
 
-        static int sum(string input)
+        static int sum(string[] input)
         {
-            int number,summa=0;
+            int summa=0;
             for (int i = 0; i < input.Length; i++)
             {
-                int.TryParse(Convert.ToString(input[i]), out number);
-                summa += number;
+                summa += Convert.ToInt32(Convert.ToString(input[i]));
             }
 
             return summa;
