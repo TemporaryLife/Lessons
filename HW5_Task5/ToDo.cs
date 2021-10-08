@@ -1,12 +1,7 @@
-﻿using System;
-using System.Text.Json;
-using System.Text.Json.Serialization;
+﻿using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Reflection;
-using System.Text;
-using System.Threading.Tasks;
-
+using System.IO;
 
 
 namespace HW5_Task5
@@ -19,6 +14,41 @@ namespace HW5_Task5
         {
             this.Title = Title;
             this.IsDone = IsDone;
+        }
+        public static void ShowMessage(List<ToDo> json_array, string path)
+        {
+            
+            if (File.Exists(path))
+            {
+
+                List<int> indexes=new List<int>();
+                
+                for (int i = 1; i <= json_array.Count; i++)
+                {
+                    indexes.Add(i);
+                }
+                Console.Clear();
+                for (int j=0; j<json_array.Count;j++)
+                {
+                    if (json_array[j].IsDone)
+                    {
+                        Console.WriteLine($"{indexes[j]}. [x]{json_array[j].Title}");
+                    }
+                    else
+                    {
+                        Console.WriteLine($"{indexes[j]}. {json_array[j].Title}");
+                    }
+                    
+                }
+                }
+
+        }
+
+        
+
+        public ToDo()
+        {
+
         }
     }
 }
