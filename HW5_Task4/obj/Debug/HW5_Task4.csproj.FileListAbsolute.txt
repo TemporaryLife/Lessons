@@ -1,7 +1,0 @@
-C:\Users\Konstantin\source\repos\TemporaryLife\Lessons\HW5_Task4\bin\Debug\HW5_Task4.exe.config
-C:\Users\Konstantin\source\repos\TemporaryLife\Lessons\HW5_Task4\bin\Debug\HW5_Task4.exe
-C:\Users\Konstantin\source\repos\TemporaryLife\Lessons\HW5_Task4\bin\Debug\HW5_Task4.pdb
-C:\Users\Konstantin\source\repos\TemporaryLife\Lessons\HW5_Task4\obj\Debug\HW5_Task4.csproj.CoreCompileInputs.cache
-C:\Users\Konstantin\source\repos\TemporaryLife\Lessons\HW5_Task4\obj\Debug\HW5_Task4.exe
-C:\Users\Konstantin\source\repos\TemporaryLife\Lessons\HW5_Task4\obj\Debug\HW5_Task4.pdb
-C:\Users\Konstantin\source\repos\TemporaryLife\Lessons\HW5_Task4\obj\Debug\HW5_Task4.csproj.AssemblyReference.cache
